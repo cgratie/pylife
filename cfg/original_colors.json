@@ -1,0 +1,17 @@
+{
+    "rows": 50,
+    "cols": 50,
+    "display_mode": "squares",
+    "states": ["BRIGHT_BLACK", "BRIGHT_GREEN"],
+    "sensors": "n8binary",
+    "rule_shape": [9],
+    "rule": [
+        [
+            [ [3] ]
+        ],
+        [
+            [ [2], [3] ]
+        ]
+    ],
+    "fps": 25
+}
